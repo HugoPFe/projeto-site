@@ -11,7 +11,7 @@ body {
 
 main {
     background-color: white;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
@@ -29,4 +29,8 @@ h2 {
 
 .lado {
     float: right;
+}
+
+.botao-voltar {
+    padding-top: 10px;
 }
